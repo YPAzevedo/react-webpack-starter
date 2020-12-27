@@ -1,0 +1,13 @@
+#app {
+  display: grid;
+  place-content: center;
+  place-items: center;
+}
+
+#app img {
+  width: 300px;
+}
+
+#app h1 {
+  margin-bottom: 50px;
+}
